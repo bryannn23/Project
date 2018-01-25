@@ -12,3 +12,4 @@ C:\Users\bryan\Desktop\project git\project git\bin\Debug\project git.pdb
 C:\Users\bryan\Desktop\project git\project git\obj\x86\Debug\project_git.Form1.resources
 C:\Users\bryan\Desktop\project git\project git\obj\x86\Debug\project_git.Properties.Resources.resources
 C:\Users\bryan\Desktop\project git\project git\obj\x86\Debug\project git.csproj.GenerateResource.Cache
+C:\Users\bryan\Desktop\project git\project git\obj\x86\Debug\project git.csprojResolveAssemblyReference.cache
