@@ -18,7 +18,7 @@ namespace project_git
 
         private void btn2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Not new");
+            MessageBox.Show("La lakers");
         }
 
         private void btn1_Click(object sender, EventArgs e)
