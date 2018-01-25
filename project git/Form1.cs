@@ -23,7 +23,7 @@ namespace project_git
 
         private void btn1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("New York");
+            MessageBox.Show("AMERICANSHIT");
         }
     }
 }
